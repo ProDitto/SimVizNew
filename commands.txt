@@ -1,0 +1,1 @@
+ npx create-r3f-app next visualizer tailwind -ts
